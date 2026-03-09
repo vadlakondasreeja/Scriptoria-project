@@ -4,25 +4,6 @@ Scriptoria were special rooms in medieval monasteries where monks copied and pre
 <section id="home">
   <h2>welcome</h2>
   <p>scriptoria were special rooms in medieval monastaries where monks copied manuscripts by hand.</p>
-  <img src="scriptoria.jpg"alt=scriptoria image" width="400">
+  <img src=""C:\image.s\scriptoria.webp""alt=scriptoria image" width="400">
 </section>
-</body></html>
-0 commit commentsComments0 (0)Lock conversationCommentSubscribeYou're 
-<!DOCTYPE html>
-<html>
-<body>
 
-<h2>Scriptoria</h2>
-<img src="<!DOCTYPE html>
-<html>
-<body>
-
-<h2>Scriptoria</h2>
-<img src="scriptoria.jpg" alt="Scriptoria room" width="400" height="300">
-
-</body>
-</html>
-
-<img src="C:\image.s\scriptoria.webp"alt="scriptoria image"
-</body>
-</html>
