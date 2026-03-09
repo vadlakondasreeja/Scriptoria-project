@@ -21,7 +21,8 @@ Scriptoria were special rooms in medieval monasteries where monks copied and pre
 <img src="scriptoria.jpg" alt="Scriptoria room" width="400" height="300">
 
 </body>
-</html>" alt="Scriptoria room" width="400" height="300">
+</html>
 
+<img src="C:\image.s\scriptoria.webp"alt="scriptoria image"
 </body>
 </html>
